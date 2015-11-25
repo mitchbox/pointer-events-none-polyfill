@@ -1,0 +1,17 @@
+{
+  "name": "pointer-events-none-polyfill",
+  "version": "0.0.1",
+  "description": "Pointer Events Polyfill",
+  "license": "MIT",
+  "main": "pointer-events-polyfill.js",
+  "repository": "mitchbox/pointer-events-none-polyfill",
+  "author": {
+    "name": "Mitch Chen",
+    "email": "mitchblog@gmail.com",
+    "url": "https://github.com/mitchbox"
+  },
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.2.10"
+  }
+}
